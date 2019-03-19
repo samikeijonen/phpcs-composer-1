@@ -74,7 +74,4 @@
 
 	<!-- Loads the PHP Compatibility ruleset. -->
 	<rule ref="PHPCompatibilityWP" />
-
-	<!-- PHP version check. -->
-	<config name="testVersion" value="7.0-"/>
 </ruleset>
